@@ -1,6 +1,8 @@
 # SkyEngine
 An renderer based on OpenGL.
 
-![](https://github.com/SilangQuan/SkyEngine/tree/master/Screenshots/7.png)
+LightingBox
+![LightingBox](https://github.com/SilangQuan/SkyEngine/blob/master/Screenshots/7.png?raw=true)
 
-![](https://github.com/SilangQuan/SkyEngine/tree/master/Screenshots/8.png)
+Sponza
+![Sponza](https://github.com/SilangQuan/SkyEngine/tree/master/Screenshots/8.png?raw=true)
